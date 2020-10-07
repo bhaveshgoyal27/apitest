@@ -3,4 +3,5 @@ opencv-python
 uwsgi
 make_response
 gunicorn
+jsonpickle
 numpy
